@@ -10,8 +10,12 @@ niothreads = 2
 #cachesize_mb = 1000
 
 # Good for 4 gigs
-membudget_mb = 800
-cachesize_mb = 0
+#membudget_mb = 800
+#cachesize_mb = 0
+
+# test 
+membudget_mb = 3200
+cachesize_mb = 1600
 
 # I/O settings
 io.blocksize = 1048576 
